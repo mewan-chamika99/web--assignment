@@ -1,0 +1,95 @@
+body{
+background:linear-gradient(to bottom right, #ecef48, #3399ff); 
+background-size: 100%;
+}
+
+.head{
+overflow: hidden;
+position: fixed;
+background-color: black;
+top: 0;
+left: 0;
+width: 1317px;
+height: 50px;
+
+}
+
+ul{
+ 
+  margin-top: 35px;
+  margin-right: 50px;
+}
+
+ul li{
+display: inline;
+}
+
+.part1{
+position: relative;
+top: -20px;
+float: right;
+}
+
+.part1 li a{
+ text-decoration: none;
+  color: #fff;
+  padding: 5px 20px;
+  border: 1px solid transparent;
+ 
+}
+
+.part1 li a:hover{
+  background-color: #fff;
+  color: #000;
+}
+
+.part1 li.active a{
+  background-color: #fff;
+  color: #000;
+}
+h1{
+	text-align: center;
+	height: 45px;
+	background-color: #9aaff0;
+	font-size: 35px;
+}
+.feedbackform{
+	position: static;
+	border: 2px solid black;
+	border-radius: 5px;
+	background-color: #42ece7;
+	width: 50%;
+	height: 90%;
+	margin: 120px 25%;
+}
+.form-item{
+	margin: 30px 30%;
+}
+.form-item label{
+	margin:0px 20px; 
+}
+.form-item input{
+	border:2px solid #000;
+	border-radius: 5px;
+	width: 50%;
+	height: 20px;
+}
+.form-item label{
+	margin:0px 27px; 
+}
+.form-item .inputTextarea{
+	margin: 10px 20px;
+	width: 85%;
+	height: 90px;
+	border:1px solid #000;
+	border-radius: 5px;
+}
+.submitform button{
+	margin: 0px 40%;
+	width: 20%;
+	height: 30px;
+	border-radius: 8px;
+}
+.submitform button:hover{
+	background-color: yellow;
+}
