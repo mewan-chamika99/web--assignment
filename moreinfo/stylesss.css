@@ -102,3 +102,11 @@ h2:hover
   border:1px ;
   display:flex;
 }
+.middleinner
+{
+   width:370px;
+  height:370px;
+  border:1px ;
+  margin-top:15px;
+  margin-left:7px;  
+}
