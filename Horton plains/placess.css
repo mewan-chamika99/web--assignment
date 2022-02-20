@@ -10,3 +10,12 @@ body{
     flex-direction: column;
     min-height: 100%;
 }
+.topmiddle h1{
+    text-align:center;
+    white-space:pre-wrap;
+    margin-top: 3%;
+    font-weight: 400;
+    font-size: 40px;
+    color: black;
+
+}
