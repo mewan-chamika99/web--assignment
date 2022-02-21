@@ -27,3 +27,12 @@ body{
     font-size: 20px;
     color: dimgray;
 }
+#pic1{
+	width: 700px;
+	height: 900px;
+    background-image: url('HP.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: 5%;
+    margin-left: 5%;
+}
