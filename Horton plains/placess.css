@@ -63,3 +63,9 @@ body{
     opacity: 95%;
 
 }
+.container1{
+    width:560px ;
+    height:340px ;
+    text-align: center;
+    padding-left: 12px;
+}
