@@ -51,3 +51,15 @@ body{
 
 
 }
+.box1{
+
+    background: #0c1a1e;
+    width: 600px;
+    height: 350px;
+    margin-left: 40%;
+    margin-top: -45%;
+    color: antiquewhite;
+    font-family: sans-serif;
+    opacity: 95%;
+
+}
