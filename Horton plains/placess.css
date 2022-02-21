@@ -36,3 +36,12 @@ body{
     margin-top: 5%;
     margin-left: 5%;
 }
+#pic2{
+	width: 700px;
+	height: 900px;
+    background-image: url('HP2.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-left: 42%;
+    margin-top: 5%;
+}
