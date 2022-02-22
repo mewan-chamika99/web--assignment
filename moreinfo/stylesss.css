@@ -1,9 +1,55 @@
+
+  
+  .head{
+  overflow: hidden;
+  position: fixed;
+  background-color: black;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 50px;
+  
+  }
+  
+  ul{
+   
+    margin-top: 35px;
+    margin-right: 50px;
+  }
+  
+  ul li{
+  display: inline;
+  }
+  
+  .part1{
+  position: relative;
+  top: -20px;
+  float: right;
+  }
+  
+  .part1 li a{
+   text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+  }
+  
+  .part1 li a:hover{
+    background-color: white;
+    color: black;
+  }
+  
+  .part1 li.active a{
+    background-color: white;
+    color: black;
+  }
 .top
 {
    width:100%;
   height:100px;
   border:1px ;
   background-image:linear-gradient(to left,#0033cc,#00ccff);
+  padding-top: 0.5px;
 
 }
 .outter
@@ -94,8 +140,7 @@ h2:hover
   color:  #ececf8;
   background-color:#333399;
 }
-.middleouter
-{
+.middleouter{
   margin-top:30px;
   width:100%;
   height:400px;
@@ -104,9 +149,28 @@ h2:hover
 }
 .middleinner
 {
-   width:370px;
+  width:800px;
   height:370px;
   border:1px ;
   margin-top:15px;
   margin-left:7px;  
+}
+.wild{
+  font-size: larger;
+  font-weight: 100;
+  font-family: sans-serif;
+  
+}
+.wild para{
+  width:800px;
+
+}
+#pic1{
+	width: 800px;
+	height: 360px;
+    background-image: url('TTR1.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin-top: -150px;
+    margin-left: 900px;
 }
