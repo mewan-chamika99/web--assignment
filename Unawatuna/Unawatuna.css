@@ -86,3 +86,39 @@ body{
     font-family: sans-serif;
     opacity: 95%;
 }
+.head{
+  overflow: hidden;
+  top:0;
+  position: fixed;
+  background-color: black;
+  width: 1500px;
+  height: 50px;
+  
+  }
+  
+  ul{
+   
+    margin-top: 35px;
+    margin-right: 50px;
+  }
+  
+  ul li{
+  display: inline;
+  }
+  
+  .part1{
+  position: relative;
+  top: -20px;
+  float: right;
+  }
+  
+  .part1 li a{
+   text-decoration: none;
+    color: white;
+    padding: 5px 20px;
+    border: 1px solid transparent;
+  }
+  
+  .part1 li a:hover{
+    background-color: white;
+    color: black;
