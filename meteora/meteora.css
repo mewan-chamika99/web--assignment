@@ -1,0 +1,88 @@
+
+
+.nav {
+    overflow: hidden;
+    background-color: rgb(0, 0, 0);
+    padding-left: 600px;
+     height: 50px;
+}
+
+.nav a {
+    float: left;
+    color: aliceblue;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.nav a:hover {
+    background-color: aquamarine;
+    color: black;
+}
+
+.nav a.active {
+    background-color: white;
+    color: black;
+}
+
+
+.alps {
+    width: 100%;
+    height: 300px;
+    background-image: url(jimmy-teoh.jpg);
+    background-position: center;
+    background-size: cover;
+    padding-top: 15px;
+}
+
+.h1 {
+    color: rgb(255, 255, 255);
+    display: inline;
+    font-weight: bolder;
+    font-size: 50px;
+    padding-left: 40px;
+}
+
+.h4 {
+    color: rgb(255, 255, 255);
+    display: inline;
+    font-size: 15px;
+}
+
+.par {
+    color: rgb(255, 255, 255);
+    font-weight: bolder;
+    font-size: 16px;
+    padding-left: 40px;
+}
+
+
+.info{
+margin-top: 00px;
+margin-left: 200px;
+width: 900px;
+font-size: 25px;
+}
+
+.photo
+{
+align: center;
+width:100%;
+height:600px;
+}
+
+.footer
+{
+bottom: 0;
+background: black;
+color: white;
+font-size: 20px;
+width: 100%;
+height: 60px;
+text-align: center;
+}
+
+.footer a:hover{
+color: red;
+}
