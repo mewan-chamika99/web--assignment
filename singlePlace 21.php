@@ -21,7 +21,7 @@
 
             ?>
 
-            <div class="col-12 singleHd " style="margin-bottom: 40px;">
+            <div class="col-12 a21 " style="margin-bottom: 40px;">
                 <h1 class="text-center pt-5">Bora French</h1>
             </div>
 
@@ -58,7 +58,7 @@
                 </div>
             </div>
 
-            <footer class="bg-dark " style="height: 100px;">ffffffffffffffffffffffffffffffffffff</footer>
+         
 
         </div>
     </div>
