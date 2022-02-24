@@ -39,7 +39,7 @@
                     </div>
 
                     <div class="col-12">
-                        <label class="form-label">Name</label>
+                        <label class="form-label">Feed Back</label>
                         <textarea class="form-control" cols="30" rows="10" id="desc"></textarea>
                     </div>
 
