@@ -22,7 +22,7 @@
             ?>
 
             <div class="col-12 a17 " style="margin-bottom: 40px;">
-                <h1 class="text-center pt-5">St Lucia Caribbean Island</h1>
+                <h1 class="text-center pt-5 black">St Lucia Caribbean Island</h1>
             </div>
 
             <div class="col-12 mt-2 shadow-lg section">
