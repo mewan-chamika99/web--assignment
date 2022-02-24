@@ -42,7 +42,7 @@
                                 <h1 class="text-center fs-4">Gread Ocean Road</h1>
                                 <h1 class="text-center fs-4">White heaven beach</h1>
                                 <h1 class="text-center fs-4">Meteora</h1>              
-                                <h1 class="text-center fs-4">Tuscany</h1>
+                                <h1 class="text-center fs-4">Machu Picchu</h1>
                                 <h1 class="text-center fs-4">St Lucia</h1>
                                 <h1 class="text-center fs-4">Galapagos</h1>
                                 <h1 class="text-center fs-4">Swiss alps</h1>
