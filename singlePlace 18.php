@@ -21,7 +21,7 @@
 
             ?>
 
-            <div class="col-12 singleHd " style="margin-bottom: 40px;">
+            <div class="col-12 a18 " style="margin-bottom: 40px;">
                 <h1 class="text-center pt-5">Grand Canyon Park Arizona USA</h1>
             </div>
 
