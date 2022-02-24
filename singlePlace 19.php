@@ -21,7 +21,7 @@
 
             ?>
 
-            <div class="col-12 singleHd " style="margin-bottom: 40px;">
+            <div class="col-12 a19 " style="margin-bottom: 40px;">
                 <h1 class="text-center pt-5">Meteora Greece</h1>
             </div>
 
@@ -58,9 +58,6 @@
                     </div>
                 </div>
             </div>
-
-            <footer class="bg-dark " style="height: 100px;">ffffffffffffffffffffffffffffffffffff</footer>
-
         </div>
     </div>
 
