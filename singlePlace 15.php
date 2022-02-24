@@ -22,7 +22,7 @@
             ?>
 
             <div class="col-12 a15 " style="margin-bottom: 40px;">
-                <h1 class="text-center pt-5">White Heaven Beach Australia</h1>
+                <h1 class="text-center pt-5 black">White Heaven Beach Australia</h1>
             </div>
       
             <div class="col-12 mt-2 section">
