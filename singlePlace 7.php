@@ -22,7 +22,7 @@
             ?>
 
             <div class="col-12 a7 " style="margin-bottom: 40px;">
-                <h1 class="text-center pt-5">Krabi Thailand</h1>
+                <h1 class="text-center pt-5 white">Krabi Thailand</h1>
             </div>
 
             <div class="col-12 mt-2 shadow-lg section">
