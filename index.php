@@ -25,8 +25,7 @@
 
                     <div class="col-12 col-lg-6 lgd d-block d-lg-block mt-6 mt-lg-0 text-center" id="lgd">
                         <img src="resources/v2.jpeg" width="500" class="mx-auto d-none d-lg-block lgimg ">
-                        <img src="resources/v2.jpeg" width="200" class="mx-auto d-block d-lg-none lgimg ">
-                        <h1 class="text-center text-white">NSBM</h1>
+                        <img src="resources/v2.jpeg" width="200" class="mx-auto d-block d-lg-none lgimg ">                     
                         <h4 class="text-center text-white">Traveling Places</h4>
                         <button class="aboutBtn">About Us</button>
                     </div>
