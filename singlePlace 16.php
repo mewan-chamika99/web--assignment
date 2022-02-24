@@ -22,7 +22,7 @@
             ?>
 
             <div class="col-12 a16 " style="margin-bottom: 40px;">
-                <h1 class="text-center pt-5">Swiss Alps Switzerland</h1>
+                <h1 class="text-center pt-5 white">Swiss Alps Switzerland</h1>
             </div>
 
             <div class="col-12 mt-2 shadow-lg section">
