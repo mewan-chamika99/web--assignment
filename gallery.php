@@ -41,37 +41,37 @@
                                 <h1 class="text-center fs-4">Napa</h1>
                                 <h1 class="text-center fs-4">Gread Ocean Road</h1>
                                 <h1 class="text-center fs-4">White heaven beach</h1>
-                                <h1 class="text-center fs-4">Adams Peak</h1>              
+                                <h1 class="text-center fs-4">Meteora</h1>              
                                 <h1 class="text-center fs-4">Tuscany</h1>
-                                <h1 class="text-center fs-4">Bali</h1>
+                                <h1 class="text-center fs-4">St Lucia</h1>
                                 <h1 class="text-center fs-4">Galapagos</h1>
-                                <h1 class="text-center fs-4">Osaka</h1>
-                                <h1 class="text-center fs-4">Napa</h1>
-                                <h1 class="text-center fs-4">Gread Ocean Road</h1>
-                                <h1 class="text-center fs-4">White heaven beach</h1>
-                                <h1 class="text-center fs-4">Adams Peak</h1>                
+                                <h1 class="text-center fs-4">Swiss alps</h1>
+                                <h1 class="text-center fs-4">Grand Canyon Park</h1>
+                                <h1 class="text-center fs-4">Bora</h1>
+                                <h1 class="text-center fs-4">Serengeti</h1>
+                                <h1 class="text-center fs-4">Vanice</h1>                
                             </div>
                         </div>
                     </div>
 
                     <div class="col-12 col-lg-9">
 
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
-                        <img src="resources/regimg.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/AP1.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="images/Horton plains.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/TTR1.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/Unawatuna.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/yala.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/amalfi 1.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/fiord 2.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/krabi 11.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/tuscany 1.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/bali2.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/galapagos.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/osaka.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/napa.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/great ocean road.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/wh1.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
+                        <img src="resources/cinque.jpg" style="object-fit: cover; width: 400px; height: 400px;" class="m-4 rounded glimg">
 
                     </div>
 
@@ -79,8 +79,6 @@
             </div>
 
 
-
-            <footer class="bg-dark " style="height: 100px;">ffffffffffffffffffffffffffffffffffff</footer>
 
         </div>
     </div>
