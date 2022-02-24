@@ -44,7 +44,7 @@
                                 <h1 class="text-center fs-4">Meteora</h1>              
                                 <h1 class="text-center fs-4">Machu Picchu</h1>
                                 <h1 class="text-center fs-4">St Lucia</h1>
-                                <h1 class="text-center fs-4">Galapagos</h1>
+                                <h1 class="text-center fs-4">Cinque</h1>
                                 <h1 class="text-center fs-4">Swiss alps</h1>
                                 <h1 class="text-center fs-4">Grand Canyon Park</h1>
                                 <h1 class="text-center fs-4">Bora</h1>
