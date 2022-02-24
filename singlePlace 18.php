@@ -58,7 +58,7 @@
                 </div>
             </div>
 
-            <footer class="bg-dark " style="height: 100px;">ffffffffffffffffffffffffffffffffffff</footer>
+            
 
         </div>
     </div>
