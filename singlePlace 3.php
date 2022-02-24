@@ -22,7 +22,7 @@
             ?>
 
             <div class="col-12 a3 " style="margin-bottom: 40px;">
-                <h1 class="text-center pt-5">Temple of the tooth</h1>
+                <h1 class="text-center pt-5 black">Temple of the tooth</h1>
             </div>
 
             <div class="col-12 mt-2 shadow-lg section">
