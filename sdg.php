@@ -39,7 +39,7 @@ The effects of COVID-19 have an impact on the SDG 15 goals for short term (2020)
 
          
 
-            <footer class="bg-dark " style="height: 100px;">ffffffffffffffffffffffffffffffffffff</footer>
+            <footer class="bg-dark " style="height: 100px;"></footer>
 
         </div>
     </div>
