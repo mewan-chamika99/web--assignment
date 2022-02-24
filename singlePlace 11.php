@@ -22,7 +22,7 @@
             ?>
 
             <div class="col-12 a11 " style="margin-bottom: 40px;">
-                <h1 class="text-center pt-5">Galapagos Island</h1>
+                <h1 class="text-center pt-5 white">Galapagos Island</h1>
             </div>
 
             <div class="col-12 mt-2 shadow-lg section">
