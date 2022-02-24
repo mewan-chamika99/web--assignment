@@ -81,7 +81,7 @@
                     <a href="singlePlace 7.php"  class="text-decoration-none text-dark">
                         <img src="images/fiord 2.jpg" class="card-img-top" width="200" height="400" style="width: 100%; object-fit: cover;  height: 400px;">
                         <div class="card-body">
-                            <h5 class="card-title">Fiordland</h5>
+                            <h5 class="card-title">Krabi</h5>
                             <!-- <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p> -->
                         </div>
                     </a>
@@ -90,7 +90,7 @@
                     <a href="singlePlace 8.php"  class="text-decoration-none text-dark">
                         <img src="images/krabi 3.jpg" class="card-img-top" width="200" height="400" style="width: 100%; object-fit: cover;  height: 400px;">
                         <div class="card-body">
-                            <h5 class="card-title">Krabi</h5>
+                            <h5 class="card-title">Fiordland</h5>
                             <!-- <p class="card-text">Some quicDk example text to build on the card title and make up the bulk of the card's content.</p> -->
                         </div>
                     </a>
