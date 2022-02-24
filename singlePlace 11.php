@@ -21,7 +21,7 @@
 
             ?>
 
-            <div class="col-12 singleHd " style="margin-bottom: 40px;">
+            <div class="col-12 a11 " style="margin-bottom: 40px;">
                 <h1 class="text-center pt-5">Galapagos Island</h1>
             </div>
 
